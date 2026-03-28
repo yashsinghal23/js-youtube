@@ -13,3 +13,8 @@ function calculateCart(...num){
 }
 
 console.log(calculateCart(200,400,550))
+
+
+const addTwo= (num1,num2) => num1+num2
+
+console.log(addTwo(-4,9))
